@@ -6,6 +6,7 @@ body{
 
 .name{
     text-align: center;
+    font-style: bold;
 }
 
 .list{
