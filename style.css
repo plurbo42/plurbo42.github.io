@@ -11,5 +11,10 @@ body{
 }
 
 #contact{
+    text-align: center;
     font-style: italic;
+}
+
+#content{
+    text-align: left;
 }
