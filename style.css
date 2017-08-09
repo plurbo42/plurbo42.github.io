@@ -23,3 +23,7 @@ body{
 .content{
     text-align: left;
 }
+
+.dates{
+    font-style: italic;
+}
