@@ -15,12 +15,13 @@ body{
 
 p.name{
     font-style: italic;
+    tex-align: right;
 }
 
 #photo{
     float: right;
-    max-width:50%;
-    max-height:50%;
+    max-width:20%;
+    max-height:20%;
 }
 
 #content{
