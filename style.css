@@ -45,6 +45,6 @@ p.name{
     text-align: left;
 }
 
-hr{
-    color: #000000
+.horizontal{
+    border-top: 3px double #000000;
 }
