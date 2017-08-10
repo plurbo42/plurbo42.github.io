@@ -10,7 +10,7 @@ body{
     font-style: bold;
     background-color: #463560;
     color: #ffffff;
-    padding: 5%;
+    padding: 5% 5% 2.5% 5%;
 }
 
 #contact{
@@ -18,7 +18,7 @@ body{
     font-style: italic;
     background-color: #463560;
     color: #ffffff;
-    padding: 5%;
+    padding: 2.5% 5% 5% 5%;
 }
 
 #content{
