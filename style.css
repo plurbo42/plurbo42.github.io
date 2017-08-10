@@ -5,7 +5,7 @@ body{
     border-left: 5px solid #000000; 
 }
 
-#name{
+.name{
     text-align: center;
     font-style: bold;
     background-color: #463560;
@@ -13,12 +13,8 @@ body{
     padding-top: 2%;
 }
 
-#contact{
-    text-align: center;
+p.name{
     font-style: italic;
-    background-color: #463560;
-    color: #ffffff;
-    padding-bottom: 2%
 }
 
 #content{
