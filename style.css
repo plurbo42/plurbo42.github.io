@@ -14,6 +14,8 @@ body{
 #name{
     text-align: center;
     font-style: bold;
+    background-color: #463560;
+    text-color: white;
 }
 
 #contact{
