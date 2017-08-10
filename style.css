@@ -1,5 +1,5 @@
 body{
-    font-family: "Georgia", serif; 
+    font-family: "Verdana", sans-serif; 
 }
 
 #container{
@@ -13,6 +13,7 @@ body{
     font-style: bold;
     background-color: #7d8c6d;
     padding: 2%;
+    font-family: "Georgia", serif;
 }
 
 p.name{
