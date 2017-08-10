@@ -17,6 +17,10 @@ p.name{
     font-style: italic;
 }
 
+#photo{
+    float: right;
+    )
+
 #content{
     text-align: left;
     text-indent: 5%;
