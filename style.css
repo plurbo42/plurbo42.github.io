@@ -34,3 +34,8 @@ body{
 .subtitle{
     text-align: center;   
 }
+
+.list{
+    text-align: left;
+    text-indent: 8%;
+}
