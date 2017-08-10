@@ -6,17 +6,15 @@ body{
 }
 
 .name{
-    text-align: center;
+    text-align: right;
     font-style: bold;
     background-color: #463560;
     color: #ffffff;
     padding: 2%;
-    clear: right;
 }
 
 p.name{
     font-style: italic;
-    text-align
 }
 
 #photo{
