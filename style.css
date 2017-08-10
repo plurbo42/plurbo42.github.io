@@ -1,5 +1,5 @@
 body{
-    width: 95%;
+    width: 90%;
     color:#0a0a10;
     font-family: "Georgia", serif;
     border-left: 5px solid #000000; 
@@ -24,6 +24,7 @@ body{
     text-indent: 5%;
     padding: 5%;
     background-color: #a3a2db;
+    border-top: 5px solid #000000;
 }
 
 .dates{
