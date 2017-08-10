@@ -8,6 +8,7 @@ body{
     font-family: "Georgia", serif;
     margin: 100px 150px 100px 80px;
     border-left: 5px solid black;
+    padding: 5%;
 }
 
 #name{
