@@ -9,14 +9,16 @@ body{
     text-align: center;
     font-style: bold;
     background-color: #463560;
-    text-color: #ffffff;
+    color: #ffffff;
+    padding: 5%;
 }
 
 #contact{
     text-align: center;
     font-style: italic;
     background-color: #463560;
-    text-color: #ffffff;
+    color: #ffffff;
+    padding: 5%;
 }
 
 #content{
