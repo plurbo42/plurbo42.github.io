@@ -6,7 +6,7 @@ body{
 }
 
 .name{
-    text-align: right;
+    text-align: left;
     font-style: bold;
     background-color: #463560;
     color: #ffffff;
