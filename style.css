@@ -1,14 +1,12 @@
 #all{
     background-color: white;
     border-left: 5px solid black;
-    margin: 5%
 }
 
 body{
     width: 95%;
     color:#0a0a10;
     font-family: "Georgia", serif;
-    padding: 12%;
 }
 
 #name{
@@ -27,7 +25,7 @@ body{
 .content{
     text-align: left;
     text-indent: 5%;
-    background-color: #e0e0eb;
+    padding: 5%;
 }
 
 .dates{
