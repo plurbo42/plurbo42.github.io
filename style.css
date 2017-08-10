@@ -8,6 +8,7 @@ body{
 .name{
     text-align: center;
     font-style: bold;
+    font-size: 48px;
     background-color: #7d8c6d;
     color: #ffffff;
     padding: 2%;
@@ -15,6 +16,7 @@ body{
 
 p.name{
     font-style: italic;
+    font-size: 25px;
 }
 
 #photo{
