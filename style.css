@@ -11,17 +11,19 @@ body{
     background-color: #463560;
     color: #ffffff;
     padding: 2%;
+    clear: right;
 }
 
 p.name{
     font-style: italic;
-    tex-align: right;
+    text-align
 }
 
 #photo{
     float: right;
     max-width:20%;
     max-height:20%;
+    opacity: 75%
 }
 
 #content{
