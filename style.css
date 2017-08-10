@@ -19,8 +19,8 @@ p.name{
 
 #photo{
     align: right;
-    height: 20%;
-    width: 20%;
+    max-width:50%;
+    max-height:50%;
 }
 
 #content{
