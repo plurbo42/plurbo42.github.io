@@ -21,6 +21,7 @@ body{
 #contact{
     text-align: center;
     font-style: italic;
+    background-color: #463560;
 }
 
 .content{
@@ -31,6 +32,7 @@ body{
 
 .dates{
     font-style: italic;
+    text-align: right;
 }
 
 .subtitle{
