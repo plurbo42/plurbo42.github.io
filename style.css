@@ -1,13 +1,13 @@
 #all{
     background-color: white;
     border-left: 5px solid black;
+    margin: 5%
 }
 
 body{
     width: 95%;
     color:#0a0a10;
     font-family: "Georgia", serif;
-    margin: 100px 150px 100px 80px;
     padding: 5%;
 }
 
