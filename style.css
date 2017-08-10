@@ -6,7 +6,7 @@ body{
 }
 
 .name{
-    text-align: left;
+    text-align: center;
     font-style: bold;
     background-color: #7d8c6d;
     color: #ffffff;
@@ -21,7 +21,6 @@ p.name{
     float: right;
     max-width:20%;
     max-height:20%;
-    opacity: 50%
 }
 
 #content{
