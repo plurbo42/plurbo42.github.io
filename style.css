@@ -21,7 +21,7 @@ p.name{
     float: right;
     max-width:20%;
     max-height:20%;
-    opacity: 75%
+    opacity: 50%
 }
 
 #content{
@@ -41,9 +41,6 @@ p.name{
     text-align: center;   
 }
 
-.list{
-    text-align: left;
-}
 
 .horizontal{
     border-top: 3px double #000000;
