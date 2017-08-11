@@ -44,6 +44,8 @@ p.name{
 }
 
 
-.horizontal{
-    border-top: 3px double #000000;
+.list{
+    border-bottom: 3px double #000000;
 }
+
+
