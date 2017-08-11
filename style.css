@@ -21,7 +21,7 @@ p{
 }
 
 #photo{
-    align: right;
+    float: right;
     width:20%;
     height:20%;
 }
